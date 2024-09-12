@@ -8,6 +8,10 @@ Este é um aplicativo Dash para visualizar e atualizar dados sobre jovens em dif
 - **Inputs de Dados**: Insira valores em categorias específicas.
 - **Atualização de Gráficos**: Atualize gráficos de distribuição com base nos dados inseridos.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ## Tecnologias
 
 - **Dash**: Framework para construir aplicações web interativas com Python.
