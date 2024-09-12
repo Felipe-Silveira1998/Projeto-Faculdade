@@ -55,7 +55,7 @@ Antes de executar o aplicativo, você precisa ter as seguintes ferramentas insta
 5. **Execute o Aplicativo**:
     No terminal do VSCode, execute:
     ```bash
-    python app.py
+    python dashboard.py
     ```
 
 6. **Acesse o Aplicativo no Navegador**:
